@@ -1,8 +1,8 @@
 # Azure-Virtual-Hackathon-2022
 
 
-## 🧑🏻‍💻 참여 인원
-|참가자|역할|
+## 🧑🏻‍💻 People
+<!-- |참가자|역할| -->
 |:-----:|:----:|
 |[Yeram](https://itwithruilan.tistory.com/)|팀장, Azure 아키텍처 설계|
 |[Moongi](https://blog.naver.com/ansrl23)|아이디어 구상, 캡셔닝|
