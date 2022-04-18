@@ -52,4 +52,6 @@
 
 ### 진행 상황
 
-### More About?
+### More About
+
+[https://aifactory.space/competition/detail/2005](대회 )
