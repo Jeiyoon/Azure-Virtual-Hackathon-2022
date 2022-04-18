@@ -28,7 +28,7 @@ Microsoft가 직면하고 있는 **DevOps, AI, 클라우드와 게임**이라는
 |:-----:|:----:|
 |[Yeram](https://itwithruilan.tistory.com/)|팀장, Azure 아키텍처 설계|
 |[Moongi](https://blog.naver.com/ansrl23)|아이디어 구상, 캡셔닝|
-|[Juhui](https://heojuhuigitblog.netlify.app/)|아이디어 구상, 캡셔닝|
+|[Juhui](https://heojuhuigitblog.netlify.app/)|캡셔닝|
 |[Jeiyoon](https://jeiyoon.github.io/)|아이디어 구상, 캡셔닝|
 
 ## 👩🏻‍💻 프로젝트 진행 기간
