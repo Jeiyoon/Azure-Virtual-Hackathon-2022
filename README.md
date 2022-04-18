@@ -54,4 +54,4 @@
 
 ### More About
 
-[https://aifactory.space/competition/detail/2005](대회 )
+[대회 페이지](https://aifactory.space/competition/detail/2005)
