@@ -53,3 +53,4 @@
 ### More About
 
 [page](https://aifactory.space/competition/detail/2005)
+[notion](https://bedecked-engine-838.notion.site/2022-Azure-Virtual-Hackathon-a75ab41fef2f4fed9f2f6e49dbf40c75)
