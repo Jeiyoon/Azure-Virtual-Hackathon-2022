@@ -5,9 +5,9 @@
 |Name|Role|
 |:-----:|:----:|
 |[Yeram](https://itwithruilan.tistory.com/)|Lead, Azure|
-|[Moongi](https://blog.naver.com/ansrl23)|model|
-|[Juhui](https://heojuhuigitblog.netlify.app/)|model|
-|[Jeiyoon](https://jeiyoon.github.io/)|model|
+|[Moongi](https://blog.naver.com/ansrl23)|Dense video captioning|
+|[Juhui](https://heojuhuigitblog.netlify.app/)|Azure|
+|[Jeiyoon](https://jeiyoon.github.io/)|Dense video captioning|
 
 ## 👩🏻‍💻 Duration
 - 2022.04.16 ~ 
