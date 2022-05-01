@@ -1,6 +1,9 @@
 # Azure-Virtual-Hackathon-2022
 
 
+<img src = "./tave_csc.png" width="80%">
+
+
 ## 🧑🏻‍💻 People
 |Name|Role|
 |:-----:|:----:|
