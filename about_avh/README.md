@@ -1,4 +1,7 @@
 ## 🚩 대회 소개
+
+- https://aifactory.space/competition/detail/1975
+
 [애저톤](https://aifactory.space/competition/detail/2005)은 ‘창의적인 사고와 기술적 혁신이 만난다면, 기존과 다른 관점으로 문제를 해결할 수 있지 않을까?’ 하는 배경에서 탄생했다. 
 
 Microsoft가 직면하고 있는 **DevOps, AI, 클라우드와 게임**이라는 크게 세 가지 분야 중 한 가지를 선택하여 도전 과제를 제시한다. **Azure를 활용해 실제 비즈니스 문제를 해결**하고, 혁신적인 문제 해결과 기술의 발전에 도모할 수 있다.
