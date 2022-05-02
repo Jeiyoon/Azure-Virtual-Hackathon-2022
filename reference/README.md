@@ -1,3 +1,7 @@
+## yaml 파일이란?
+
+- https://www.inflearn.com/questions/16184
+
 ## TartanAir dataset
 - https://arxiv.org/pdf/2003.14338.pdf
 
