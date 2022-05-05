@@ -58,3 +58,11 @@
 
 - [page](https://aifactory.space/competition/detail/2005)
 - [notion](https://bedecked-engine-838.notion.site/2022-Azure-Virtual-Hackathon-a75ab41fef2f4fed9f2f6e49dbf40c75)
+<<<<<<< Updated upstream
+=======
+
+### Reference
+- [2021 Azure HACKATHON](https://azureai.devpost.com/project-gallery?page=1)
+- [Build Pipeline](https://docs.microsoft.com/ko-kr/azure/architecture/reference-architectures/ai/speech-to-text-transcription-pipeline)
+- [Azure 이미지 분류](https://docs.microsoft.com/ko-kr/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
+>>>>>>> Stashed changes
