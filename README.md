@@ -9,9 +9,9 @@
 |Name|Role|
 |:-----:|:----:|
 |[Yeram](https://itwithruilan.tistory.com/)|Lead, Azure|
-|[Moongi](https://blog.naver.com/ansrl23)|Dense video captioning|
+|[Moongi](https://blog.naver.com/ansrl23)|Deep Leearning|
 |[Juhui](https://heojuhuigitblog.netlify.app/)|Azure|
-|[Jeiyoon](https://jeiyoon.github.io/)|Dense video captioning|
+|[Jeiyoon](https://jeiyoon.github.io/)|Deep Learning|
 
 ## 👩🏻‍💻 Duration
 - 2022.04.16 ~ 
@@ -62,5 +62,6 @@
 ### Reference
 - [2021 Azure HACKATHON](https://azureai.devpost.com/project-gallery?page=1)
 - [Build Pipeline](https://docs.microsoft.com/ko-kr/azure/architecture/reference-architectures/ai/speech-to-text-transcription-pipeline)
-- [Azure 이미지 분류](https://docs.microsoft.com/ko-kr/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
+- [Azure image classification](https://docs.microsoft.com/ko-kr/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
+- [Loading videos](https://video-dataset-loading-pytorch.readthedocs.io/en/latest/)
 
