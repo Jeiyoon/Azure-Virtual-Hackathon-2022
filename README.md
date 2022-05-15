@@ -2,7 +2,7 @@
 
 - Cloud Skills Challenge
 
-<img src = "./tave_csc.png" width="100%">
+<img src = "./tave_csc.png" width="80%">
 
 
 ## 🧑🏻‍💻 People
