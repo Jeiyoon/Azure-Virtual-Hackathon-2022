@@ -1,6 +1,9 @@
 # Azure-Virtual-Hackathon-2022
 
-- Semifinal
+- Finals
+    - TBD
+
+- Semifinals
 
 <img src = "./tave_semifinals.png" width="80%">
 
