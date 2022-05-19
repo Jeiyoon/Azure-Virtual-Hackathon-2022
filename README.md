@@ -50,6 +50,17 @@
 |파급 효과|지속발전 및 성장가능성, 사회적 가치창출 및 파급효과|25|
 |애저 활용성|제안하는 아이디어(기술)와 연계된 애저 활용도|25|
 
+## Discord
+
+Thank you for registering.
+
+There are two steps to complete the registration 
+1) Please join our discord channel at
+https://discord.gg/S6w2Wey2cz
+2) Join the Challenge using-https://aka.ms/csckr_ai
+
+Please complete above steps, where we all can learn together and also have Azure experts and people from Microsoft who can assist you while learning.
+
 <!-- ### 웹페이지
 
 
