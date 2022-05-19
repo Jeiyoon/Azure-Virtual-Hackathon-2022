@@ -2,7 +2,7 @@
 
 - Semifinal
 
-<img src = "./tave_semifinal.png" width="80%">
+<img src = "./tave_semifinals.png" width="80%">
 
 
 - Cloud Skills Challenge
