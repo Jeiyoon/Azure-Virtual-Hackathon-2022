@@ -1,5 +1,10 @@
 # Azure-Virtual-Hackathon-2022
 
+- Semifinal Result
+
+<img src = "./tave_semifinal.png" width="80%">
+
+
 - Cloud Skills Challenge
 
 <img src = "./tave_csc.png" width="80%">
