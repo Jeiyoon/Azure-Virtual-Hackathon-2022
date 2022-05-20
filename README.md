@@ -8,7 +8,7 @@
 <img src = "./tave_semifinals.png" width="80%">
 
 
-- Cloud Skills Challenge (9/52 = 17.3%)
+- Cloud Skills Challenge (9/52 = 17.3%, Track 2)
 
 <img src = "./tave_csc.png" width="80%">
 
