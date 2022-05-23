@@ -22,7 +22,7 @@
 |[Jeiyoon](https://jeiyoon.github.io/)|Deep Learning|
 
 ## 👩🏻‍💻 Duration
-- 2022.04.16 ~ 
+- 2022.04.16 ~ 2022.06.08
 
 ## 🗓 Schedule
 |일정|날짜|
@@ -67,14 +67,6 @@ https://discord.gg/S6w2Wey2cz
 
 Please complete above steps, where we all can learn together and also have Azure experts and people from Microsoft who can assist you while learning.
 
-<!-- ### 웹페이지
-
-
-### 데모영상
-
-### 출연연 데이터 목록
-
-### 외부 데이터 목록 -->
 
 ### More About
 
