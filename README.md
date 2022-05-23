@@ -8,7 +8,7 @@
 <img src = "./tave_semifinals.png" width="80%">
 
 
-- Cloud Skills Challenge (9/52 = 17.3%, Track 2)
+- 🏃🏻‍♂️Cloud Skills Challenge (9/52 = 17.3%, Track 2)
 
 <img src = "./tave_csc.png" width="80%">
 
@@ -29,6 +29,7 @@
 |:-----:|:-----:|
 |참가 접수 및 1차 서류 접수 기간|05.13 금 (23:59까지) [✔]
 |1차 서류심사 결과 발표|~~05.18 수~~ 05.19 목 [✔]| 
+|2차 발표 자료 제출|06.06 월 20시|
 |2차 발표 평가 (온라인 진행 예정)|06.08 수|
 |시상식 (온라인 진행 예정)|06.10 금|
 
@@ -56,7 +57,21 @@
 |애저 활용성|제안하는 아이디어(기술)와 연계된 애저 활용도|30|
 
 
-## Discord
+## 📢 Presentation
+- 발표 시간
+    - 1개 팀 당 발표 15분, 질의응답 5분으로 구성
+    - 팀 별 상세 발표 타임 테이블은 추후 안내 예정
+- 발표 자료 
+    - 1차 기획안을 토대로 ppt/ pdf 자료를 제작하여 발표 진행
+    - 자유 양식 (정해진 서식 없음)
+    - 시연에 필요한 부가 자료가 있을 경우 함께 준비
+    - 발표 시간이 15분이라는 점을 감안하여 부가자료를 준비해주시길 바랍니다.
+- 발표자료 제출 기한
+    - 6월 6일 오후 20:00까지 발표 자료 선 제출
+    - 글씨체 깨짐 등의 문제를 방지하기 위하여 가급적 pdf 파일로 변환하여 제출할 것을 제안드립니다. 
+
+
+## 🌘 Discord
 
 Thank you for registering.
 
@@ -68,7 +83,7 @@ https://discord.gg/S6w2Wey2cz
 Please complete above steps, where we all can learn together and also have Azure experts and people from Microsoft who can assist you while learning.
 
 
-### More About
+### 👑 More About
 
 - [page](https://aifactory.space/competition/detail/2005)
 - [notion](https://bedecked-engine-838.notion.site/2022-Azure-Virtual-Hackathon-a75ab41fef2f4fed9f2f6e49dbf40c75)
@@ -76,7 +91,7 @@ Please complete above steps, where we all can learn together and also have Azure
     - https://docs.microsoft.com/ko-KR/azure/search/search-get-started-python
     - https://docs.microsoft.com/ko-KR/azure/cognitive-services/big-data/samples-python
 
-### Reference
+### 📚 Reference
 - [2021 Azure HACKATHON](https://azureai.devpost.com/project-gallery?page=1)
 - [Build Pipeline](https://docs.microsoft.com/ko-kr/azure/architecture/reference-architectures/ai/speech-to-text-transcription-pipeline)
 - [Azure image classification](https://docs.microsoft.com/ko-kr/azure/architecture/example-scenario/ai/intelligent-apps-image-processing)
