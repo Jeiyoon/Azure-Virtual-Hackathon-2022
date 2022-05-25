@@ -14,12 +14,15 @@
 
 
 ## 🧑🏻‍💻 People
-|Name|Role|
+
+- [Yeram](https://itwithruilan.tistory.com/), [Moongi](https://blog.naver.com/ansrl23), [Juhui](https://heojuhuigitblog.netlify.app/), [Jeiyoon](https://jeiyoon.github.io/)  
+
+<!-- |Name|Role|
 |:-----:|:----:|
 |[Yeram](https://itwithruilan.tistory.com/)|Lead, Azure|
 |[Moongi](https://blog.naver.com/ansrl23)|Deep Leearning|
 |[Juhui](https://heojuhuigitblog.netlify.app/)|Azure|
-|[Jeiyoon](https://jeiyoon.github.io/)|Deep Learning|
+|[Jeiyoon](https://jeiyoon.github.io/)|Deep Learning| -->
 
 ## 👩🏻‍💻 Duration
 - 2022.04.16 ~ 2022.06.08
