@@ -25,7 +25,7 @@
 |[Jeiyoon](https://jeiyoon.github.io/)|Deep Learning| -->
 
 ## 👩🏻‍💻 Duration
-- 2022.04.16 ~ 2022.06.08
+- 2022.04.16 ~ 2022.06.08 (54 days)
 
 ## 🗓 Schedule
 |일정|날짜|
