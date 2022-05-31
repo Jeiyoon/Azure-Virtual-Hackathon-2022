@@ -1,5 +1,14 @@
 # Azure-Virtual-Hackathon-2022
 
+- To-do list
+    - 발표자료 
+    - 데모 보류 
+    - 영상 보류
+    - 200크레딧 
+    - 알고리즘 추가 
+        - 핵심 이미지 고르기 -> 비교
+        - mp4로 만들기 -> 비교
+
 - Finals
     - TBD
 
