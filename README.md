@@ -27,9 +27,9 @@ https://user-images.githubusercontent.com/56618962/172105272-cd02866a-f0c1-449d-
 
 ## System Architecture
 
-<img src = "./tave_semifinals.png" width="80%">
+<img src = "./a1.jpg" width="80%">
 
-<img src = "./tave_semifinals.png" width="80%">
+<img src = "./a2.jpg" width="80%">
 
 
 
