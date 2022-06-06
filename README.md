@@ -1,14 +1,5 @@
 # Azure-Virtual-Hackathon-2022
 
-- To-do list
-    - 발표자료 [✔] 
-    - 데모 (Django) [✔]
-    - 영상 (주희) [✔]
-    - 200 크레딧 (문기) [✔]
-    - 알고리즘 추가 [✔] 
-        - 핵심 이미지 고르기 (그냥 가운데 프레임 고르는게 아니라 캡션과의 cos similarity 계산후 가장 적절한 캡션을 선택)
-        - 보여주기용 mp4로 만들기
-
 - Finals
     - TBD
 
@@ -27,12 +18,14 @@
 - Team TAVE: 
     - [Yeram](https://itwithruilan.tistory.com/), [Moongi](https://blog.naver.com/ansrl23), [Juhui](https://heojuhuigitblog.netlify.app/), [Jeiyoon](https://jeiyoon.github.io/)  
 
-<!-- |Name|Role|
-|:-----:|:----:|
-|[Yeram](https://itwithruilan.tistory.com/)|Lead, Azure|
-|[Moongi](https://blog.naver.com/ansrl23)|Deep Leearning|
-|[Juhui](https://heojuhuigitblog.netlify.app/)|Azure|
-|[Jeiyoon](https://jeiyoon.github.io/)|Deep Learning| -->
+## Demo
+
+https://user-images.githubusercontent.com/56618962/172104989-ebe371ab-d078-40c1-98a2-62ac2168ec87.mp4
+
+
+https://user-images.githubusercontent.com/56618962/172105030-82d6c9c3-2f3d-49d6-be23-327ded5e8cf5.mp4
+
+
 
 ## 👩🏻‍💻 Duration
 - 2022.04.16 ~ 2022.06.08 (54 days)
