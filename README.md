@@ -20,11 +20,16 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/56618962/172104989-ebe371ab-d078-40c1-98a2-62ac2168ec87.mp4
+https://user-images.githubusercontent.com/56618962/172107585-b0be6c83-4972-49d0-903d-ec1e6edc699b.mp4
 
 https://user-images.githubusercontent.com/56618962/172105272-cd02866a-f0c1-449d-a680-a1cf555be286.mp4
 
 
+## System Architecture
+
+<img src = "./tave_semifinals.png" width="80%">
+
+<img src = "./tave_semifinals.png" width="80%">
 
 
 
