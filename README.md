@@ -5,7 +5,7 @@
 
 - Semifinals
 
-<img src = "./tave_semifinals.png" width="100%">
+<img src = "./tave_semifinals.png" width="100%" dpi=300>
 
 
 - 🏃🏻‍♂️Cloud Skills Challenge (9/52 = 17.3%, Track 2)
