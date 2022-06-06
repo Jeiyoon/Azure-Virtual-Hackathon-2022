@@ -18,18 +18,18 @@
 - Team TAVE: 
     - [Yeram](https://itwithruilan.tistory.com/), [Moongi](https://blog.naver.com/ansrl23), [Juhui](https://heojuhuigitblog.netlify.app/), [Jeiyoon](https://jeiyoon.github.io/)  
 
+## System Architecture
+
+<img src = "./a1.jpg" width="100%">
+
+<img src = "./a2.jpg" width="100%">
+
+
 ## Demo
 
 https://user-images.githubusercontent.com/56618962/172107585-b0be6c83-4972-49d0-903d-ec1e6edc699b.mp4
 
 https://user-images.githubusercontent.com/56618962/172105272-cd02866a-f0c1-449d-a680-a1cf555be286.mp4
-
-
-## System Architecture
-
-<img src = "./a1.jpg" width="80%">
-
-<img src = "./a2.jpg" width="80%">
 
 
 
