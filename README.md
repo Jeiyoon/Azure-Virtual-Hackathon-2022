@@ -1,16 +1,14 @@
 # Azure-Virtual-Hackathon-2022
 
-- Finals
-    - TBD
+## 🏆 Finals
+<img src = "https://user-images.githubusercontent.com/77733145/172747534-973c95e5-e4a1-454c-a7e1-f477a03c83e7.png" width="100%">
 
-- Semifinals
+## ✨ Semifinals
+<img src = "./tave_semifinals.png" width="80%">
 
-<img src = "./tave_semifinals.png">
+## 🏃🏻‍♂️ Cloud Skills Challenge (9/52 = 17.3%, Track 2)
 
-
-- 🏃🏻‍♂️Cloud Skills Challenge (9/52 = 17.3%, Track 2)
-
-<img src = "./tave_csc.png">
+<img src = "./tave_csc.png" width="80%">
 
 
 ## 🧑🏻‍💻 People
@@ -41,9 +39,8 @@ https://user-images.githubusercontent.com/56618962/172105272-cd02866a-f0c1-449d-
 |:-----:|:-----:|
 |참가 접수 및 1차 서류 접수 기간|05.13 금 (23:59까지) [✔]
 |1차 서류심사 결과 발표|~~05.18 수~~ 05.19 목 [✔]| 
-|2차 발표 리허설|06.03 금 17:00 [✔]|
-|2차 발표 자료 제출|06.06 월 20:00 [✔]|
-|2차 발표 평가 (온라인 진행 예정)|06.08 수 15:30 [✔]|
+|2차 발표 자료 제출|06.06 월 20시 [✔]|
+|2차 발표 평가 (온라인 진행 예정)|06.08 수 [✔]|
 |시상식 (온라인 진행 예정)|06.10 금|
 
 
@@ -101,8 +98,8 @@ Please complete above steps, where we all can learn together and also have Azure
 
 ### 👑 More About
 
-- [page](https://aifactory.space/competition/detail/2005)
-- [notion](https://bedecked-engine-838.notion.site/2022-Azure-Virtual-Hackathon-a75ab41fef2f4fed9f2f6e49dbf40c75)
+- [AI Factory page](https://aifactory.space/competition/detail/2005)
+- [Team Notion](https://bedecked-engine-838.notion.site/2022-Azure-Virtual-Hackathon-a75ab41fef2f4fed9f2f6e49dbf40c75)
 - Baselines:
     - https://docs.microsoft.com/ko-KR/azure/search/search-get-started-python
     - https://docs.microsoft.com/ko-KR/azure/cognitive-services/big-data/samples-python
