@@ -1,7 +1,7 @@
 # Azure-Virtual-Hackathon-2022
 
 ## 🏆 Finals
-<img src = "./tave_finals.PNG" width="50%">
+<img src = "./tave_finals.PNG" width="57%">
 <img src = "https://user-images.githubusercontent.com/77733145/172747534-973c95e5-e4a1-454c-a7e1-f477a03c83e7.png" width="100%">
 
 ## ✨ Semifinals
